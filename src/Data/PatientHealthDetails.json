@@ -1,0 +1,46 @@
+[
+  {
+    "PatientNumber": 1,
+    "PatientName": "Shivaji",
+    "Gender": "Male",
+    "Maleria": "No",
+    "Dengue": "No",
+    "Cancer": "No",
+    "Flue": "Yes",
+    "StateName": "MH",
+    "Country": "INDIA"
+  },
+  {
+    "PatientNumber": 2,
+    "PatientName": "Gopi",
+    "Gender": "Female",
+    "Maleria": "Yes",
+    "Dengue": "No",
+    "Cancer": "No",
+    "Flue": "Yes",
+    "StateName": "KA",
+    "Country": "INDIA"
+  },
+  {
+    "PatientNumber": 3,
+    "PatientName": "Poonam",
+    "Gender": "Female",
+    "Maleria": "Yes",
+    "Dengue": "Yes",
+    "Cancer": "No",
+    "Flue": "Yes",
+    "StateName": "GJ",
+    "Country": "INDIA"
+  },
+  {
+    "PatientNumber": 4,
+    "PatientName": "Ankush",
+    "Gender": "Male",
+    "Maleria": "Yes",
+    "Dengue": "Yes",
+    "Cancer": "No",
+    "Flue": "Yes",
+    "StateName": "CA",
+    "Country": "USA"
+  }
+]
